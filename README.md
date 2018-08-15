@@ -1,2 +1,2 @@
 # Rand_Map_GAN
-Learning GANs using Random Mappings
+This is a simple prototype of the idea of learning GANs using random mappings. This is a work in progress.
